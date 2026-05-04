@@ -1,0 +1,6 @@
+{
+  "name": "Level Up Runner",
+  "description": "An endless 3D runner game where you swipe to change lanes, pass through gates to level up, and avoid reaching level zero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
